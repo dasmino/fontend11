@@ -1,0 +1,14 @@
+
+Warning: PHP Startup: Unable to load dynamic library 'E:\xampp\php\ext\php_phalcon.dll' - %1 is not a valid Win32 application.
+ in Unknown on line 0
+<?php
+$_L['trafficdetails']    = 'Traffic Details';
+$_L['topvisit']          = 'Top Most Visit Pages';
+$_L['topbrowse']         = 'Top Browses';
+$_L['trafficdashboard']  = 'Traffic Dashboard';
+$_L['neworders']         = 'New Orders';
+$_L['countorders']       = 'Total orders';
+$_L['userregistrations'] = 'User';
+$_L['uniquevisitors']    = 'Unique Visitors';
+$_L['visits']            = 'Visits';
+$_L['moreinfo']          = 'More info';
